@@ -1,3 +1,6 @@
+<div style="text-align: center;">
+![Imgur](http://i.imgur.com/lhG27Le.png)
+</div>
 # Pear-syntax theme
 Fresh and juicy pear, dazzling sunlight, and blue sky.
 
