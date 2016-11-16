@@ -11,7 +11,7 @@
     "green",
     "pastel"
   ],
-  "repository": "https://github.com/atom/pear-syntax",
+  "repository": "https://github.com/Niishi/pear-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
