@@ -1,6 +1,7 @@
 # Pear-syntax theme
 Fresh and juicy pear, dazzling sunlight, and blue sky.
 
+This theme is my first atom theme.
 
 ![Sample](http://i.imgur.com/SvWr529.png)
 > The font used in this screenshot is [DejaVu sans mono](http://dejavu-fonts.org/wiki/Main_Page).
