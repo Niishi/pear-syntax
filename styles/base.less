@@ -16,6 +16,7 @@ atom-text-editor, :host {
     color: @syntax-invisible-character-color;
   }
 
+
   .gutter {
     background-color: @syntax-gutter-background-color;
     color: @syntax-gutter-text-color;
@@ -31,6 +32,7 @@ atom-text-editor, :host {
       }
     }
   }
+
 
   .gutter .line-number.folded,
   .gutter .line-number:after,
@@ -48,6 +50,9 @@ atom-text-editor, :host {
 
   .selection .region {
     background-color: @syntax-selection-color;
+  }
+  .minimap-selection .region {
+      background: @vanilla;
   }
 }
 
