@@ -1,7 +1,7 @@
 {
   "name": "pear-syntax",
   "theme": "syntax",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A nice green and yellow syntax theme inspired by pear and Japanese pear.",
   "keywords": [
     "syntax",
